@@ -15,6 +15,6 @@ it came with certain limitations. BondForge has moved beyond those constraints,
 paving a new path for innovation in bail bond software.  
 
 ## Release Timeline  
-While an official release date has not been announced, we plan to commence alpha 
-testing with select clients in 2025. Social media channels will launch in Q2 2025. 
+An official release date has not been announced, a comprehensive alpha 
+testing with select clients in Q1/Q2 2026. Social media channels will launch in Q1 2026. 
 Stay connected here for the latest updates.  
