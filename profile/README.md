@@ -16,5 +16,14 @@ paving a new path for innovation in bail bond software.
 
 ## Release Timeline  
 An official release date has not been announced, a comprehensive alpha 
-testing with select clients in Q1/Q2 2026. Social media channels will launch in Q1 2026. 
-Stay connected here for the latest updates.  
+testing with select clients in Q1/Q2 2026. 
+
+## Stay Connected
+Socials:
+ 1) X/Twitter/TwiX
+    * [BondForge](https://x.com/BondForge_HQ)
+    * [BondForge Engineering](https://x.com/BondForgeDev) 
+ 2) [FaceBook](https://www.facebook.com/profile.php?id=61577717443123)
+ 3) [LinkedIn](https://www.linkedin.com/company/bondforge/)
+  
+
