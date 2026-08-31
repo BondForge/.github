@@ -1,8 +1,8 @@
-BondForge
+# BondForge
 
 Forging Innovation in Bail Bonds
 
-What is BondForge?
+## What is BondForge?
 
 Many bail bond agencies still rely on pen and paper, aging software, or systems that simply weren't designed around the way bondsmen actually work.
 
@@ -12,7 +12,7 @@ Our goal is to meet bondsmen and their agencies where they are — whether that'
 
 Technology should adapt to the people doing the work, not the other way around.
 
-The Origin of BondForge
+## The Origin of BondForge
 
 BondForge has been years in the making.
 
@@ -22,7 +22,7 @@ BondForge takes the lessons learned from Uncle Joey and starts fresh with today'
 
 This isn't simply Uncle Joey rebuilt on a newer framework. BondForge is the next generation.
 
-Security Is Part of the Foundation
+## Security Is Part of the Foundation
 
 Bail bond agencies handle highly sensitive information every day. At the same time, the software engineering world is moving faster than ever.
 
@@ -34,7 +34,7 @@ That means taking the time to test our assumptions, challenge our systems, exami
 
 Moving quickly matters. Earning that trust matters more.
 
-Release Timeline
+## Release Timeline
 
 BondForge entered pre-alpha development and testing in late Q2 2026, marking the beginning of hands-on validation of the platform beyond its initial development stages.
 
@@ -44,7 +44,7 @@ We haven't announced an official public release date.
 
 We're building toward one deliberately.
 
-Stay Connected
+## Stay Connected
 
 Follow along as we build BondForge:
 
