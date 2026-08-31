@@ -48,7 +48,6 @@ We're building toward one deliberately.
 
 Follow along as we build BondForge:
 
-## Stay Connected
  1) X/Twitter/TwiX
     * BondForge - [@BondForge_HQ](https://x.com/BondForge_HQ)
     * BondForge Engineering - [BondForgeDev](https://x.com/BondForgeDev) 
