@@ -47,12 +47,12 @@ We're building toward one deliberately.
 ## Stay Connected
 
 Follow along as we build BondForge:
-
- 1) X/Twitter/TwiX
+ 1) Website - [BondForgeHQ](https://www.bondforgehq.com/)
+ 2) X/Twitter/TwiX
     * BondForge - [@BondForge_HQ](https://x.com/BondForge_HQ)
     * BondForge Engineering - [BondForgeDev](https://x.com/BondForgeDev) 
- 2) FaceBook - [BondForge](https://www.facebook.com/profile.php?id=61577717443123)
- 3) LinkedIn - [BondForge](https://www.linkedin.com/company/bondforge/)
+ 3) FaceBook - [BondForge](https://www.facebook.com/profile.php?id=61577717443123)
+ 4) LinkedIn - [BondForge](https://www.linkedin.com/company/bondforge/)
 
 We're looking forward to showing you what we're forging.
 
